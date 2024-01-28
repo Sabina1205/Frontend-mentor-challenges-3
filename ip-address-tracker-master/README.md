@@ -10,6 +10,10 @@ This is a completed solution for IP address tracker from Frontend Mentor website
 
 ### Screenshots
 
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/e9386b93-fe7d-4fbf-94f5-61022ea436f7)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/f9792f81-6a70-46fe-bddf-b66a9394ebb8)
+
 ### The challenge
 
 Users should be able to:
@@ -21,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-2/tree/main/multi-step-form-main)
-- Live Site URL: [Live](https://multi-step-form-sage-beta.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/tree/main/ip-address-tracker-master)
+- Live Site URL: [Live]()
 
 ## My process
 
@@ -32,8 +36,8 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - JavaScript
-- Geolocation API
-- Leaflet
+- [IP Geolocation API](https://geo.ipify.org/)
+- [Leaflet](https://leafletjs.com/)
 
 ### What I learned
 

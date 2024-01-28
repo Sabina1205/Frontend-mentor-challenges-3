@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/tree/main/ip-address-tracker-master)
-- Live Site URL: [Live]()
+- Live Site URL: [Live](https://ip-address-tracker-eight-phi.vercel.app/)
 
 ## My process
 

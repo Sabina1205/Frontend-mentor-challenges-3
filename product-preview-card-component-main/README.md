@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live]()
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/edit/main/product-preview-card-component-main/)
+- Live Site URL: [Live](https://product-preview-card-ruddy.vercel.app/)
 
 ## My process
 

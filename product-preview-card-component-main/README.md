@@ -12,6 +12,9 @@ Users should be able to:
 - See hover and focus states for interactive elements
 
 ### Screenshot
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/fa0ae996-81a1-4a62-9680-8495baaacde9)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/ac01f500-67fe-491f-9973-d57c9240d75f)
 
 ### Links
 

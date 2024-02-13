@@ -1,0 +1,49 @@
+# Frontend Mentor - News homepage solution
+
+This is a completed challenge for the News homepage solution from Frontend Mentor. Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+
+## Overview
+
+### The challenge
+
+Users should be able to:
+
+- View the optimal layout for the interface depending on their device's screen size
+- See hover and focus states for all interactive elements on the page
+  n a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+
+### Screenshot
+
+### Links
+
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/edit/main/product-preview-card-component-main/)
+- Live Site URL: [Live](https://product-preview-card-ruddy.vercel.app/)
+
+## My process
+
+### Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- JavaScript
+
+### What I learned
+
+I've studied CSS grid in great detail.
+
+### Continued development
+
+I'm going to focus more on advanced CSS.
+
+**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
+### Useful resources
+
+- [FreeCodeCamp Forum](https://forum.freecodecamp.org/) - This forum is a great resource for frontend developers.
+
+## Author
+
+- Website - [Sabina](https://sabina1205.github.io/personal-website/)
+- Frontend Mentor - [@Sabina1205](https://www.frontendmentor.io/home)

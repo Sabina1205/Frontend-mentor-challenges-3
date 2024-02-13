@@ -23,7 +23,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/tree/main/news-homepage-main)
-- Live Site URL: [Live]()
+- Live Site URL: [Live](https://news-homepage-seven-rho.vercel.app/)
 
 ## My process
 

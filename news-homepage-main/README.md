@@ -14,10 +14,16 @@ Users should be able to:
 
 ### Screenshot
 
+![desktop_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/76300bd8-64e1-456d-90d6-105b56098219)
+
+![mobile_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/72f4122a-d9e6-4ea4-8608-60473c58aaea)
+
+![menu_preview](https://github.com/Sabina1205/Frontend-mentor-challenges-3/assets/96692767/60a44a64-e7d7-4f49-8889-2d3095b696b2)
+
 ### Links
 
-- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/edit/main/product-preview-card-component-main/)
-- Live Site URL: [Live](https://product-preview-card-ruddy.vercel.app/)
+- Solution URL: [Solution](https://github.com/Sabina1205/Frontend-mentor-challenges-3/tree/main/news-homepage-main)
+- Live Site URL: [Live]()
 
 ## My process
 
